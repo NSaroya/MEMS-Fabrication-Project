@@ -126,13 +126,43 @@ The finished devices will be characterized and tested using scanning electron mi
 # Results
 
 <div align="center">
+  
+  ![20231130_141747](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/1ef9626b-060b-4c91-b755-ceb06a127943)
+
+</div>
+
+<p align="center">
+  <strong>Figure 6:</strong> Fabricated MEMS Wafer.
+</p>
+
+<div align="center">
+  
+  ![20231130_140758](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/0e1cfe85-9488-4c30-bc7b-9b63b0cf9e86)
+
+</div>
+
+<p align="center">
+  <strong>Figure 7:</strong> Hitachi S4800 FESEM used for Imaging.
+</p>
+
+<div align="center">
+  
+  ![20231123_140804](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/bdb894c4-6f40-46cc-8b0c-c823e4a4aeaf)
+
+</div>
+
+<p align="center">
+  <strong>Figure 8:</strong> The Wentworth probing station is used to actuate the comb drives by adjusting the voltage and measure the resulting displacement in the devices.
+</p>
+
+<div align="center">
 
   ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/28f0217e-a1eb-4eac-a698-c98edc8afceb)
 
 </div>
 
 <p align="center">
-  <strong>Figure 6:</strong> Small comb drives.
+  <strong>Figure 9:</strong> Small comb drives.
 </p>
 
 <div align="center">
@@ -142,7 +172,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 7:</strong> Large comb drives.
+  <strong>Figure 10:</strong> Large comb drives.
 </p>
 
 <div align="center">
@@ -152,7 +182,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 8:</strong> A tri-padded Archimedean spiral spring MEMS with 6 comb drives (12/12 teeth per comb drive) designed by Mark Salomons.
+  <strong>Figure 11:</strong> A tri-padded Archimedean spiral spring MEMS with 6 comb drives (12/12 teeth per comb drive) designed by Mark Salomons.
 </p>
 
 <div align="center">
@@ -162,7 +192,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 10:</strong> Smooth movers cell.
+  <strong>Figure 12:</strong> Smooth movers cell.
 </p>
 
 <div align="center">
@@ -172,7 +202,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 11:</strong> Extended-needle gauges with small drives. The larger square/rectangular pads in the middle are the anchors: one for the hinge of the needle; the other for the scale next to the moving needle.
+  <strong>Figure 13:</strong> Extended-needle gauges with small drives. The larger square/rectangular pads in the middle are the anchors: one for the hinge of the needle; the other for the scale next to the moving needle.
 </p>
 
 <div align="center">
@@ -182,7 +212,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 12:</strong> Resistance gauges: A comb drive attached to a resistance gauge, and a close-up of the gauge itself.
+  <strong>Figure 14:</strong> Resistance gauges: A comb drive attached to a resistance gauge, and a close-up of the gauge itself.
 </p>
 
 <div align="center">
@@ -192,7 +222,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 13:</strong> SEM image of tri-padded Archimedean spiral spring MEMS.
+  <strong>Figure 15:</strong> SEM image of tri-padded Archimedean spiral spring MEMS.
 </p>
 
 <div align="center">
@@ -202,7 +232,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 14:</strong> Magnified SEM image of tri-padded Archimedean spiral spring MEMS.
+  <strong>Figure 16:</strong> Magnified SEM image of tri-padded Archimedean spiral spring MEMS.
 </p>
 
 <div align="center">
@@ -212,7 +242,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 15:</strong> SEM Microscopy Image of Deep etch.
+  <strong>Figure 17:</strong> SEM Microscopy Image of Deep etch.
 </p>
 
 <div align="center">
@@ -222,7 +252,7 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 16:</strong> Magnified image of SEM Microscopy Image of Deep etch.
+  <strong>Figure 18:</strong> Magnified image of SEM Microscopy Image of Deep etch.
 </p>
 
 <div align="center">
@@ -232,12 +262,12 @@ The finished devices will be characterized and tested using scanning electron mi
 </div>
 
 <p align="center">
-  <strong>Figure 17:</strong> SEM Microscopy Image of Sidewall structure.
+  <strong>Figure 19:</strong> SEM Microscopy Image of Sidewall structure.
 </p>
 
 # SOI MEMS project mask map
 
-The mask used in this project was redesigned in the summer of 2016 by the course instructors using L-Edit v10.01 software and fabricated using the Heidelberg DWL-200 Laser Pattern Generator in the nanoFAB.
+The mask used in this project was redesigned in the summer of 2016 by the course instructors using L-Edit v10.01 software and fabricated using the Heidelberg DWL-200 Laser Pattern Generator in the nanoFAB. . It is optimized to be used on SOI quarter wafers. It contains numerous repetitions of the rectangular die design shown below. Each die contains nine cells, each of which contains numerous comb drive devices, detailed below. To get the most fulfilling experience when interacting with the die, examine the cells one at a time as they are labelled alphabetically: A through F (regular cells), then B1 and B2 (bonus cells). The parameters for each device are described on the following pages.
 
 <div align="center">
   
@@ -246,7 +276,7 @@ The mask used in this project was redesigned in the summer of 2016 by the course
 </div>
 
 <p align="center">
-  <strong>Figure 18:</strong> Layout of the MEMS die.
+  <strong>Figure 20:</strong> Layout of the MEMS die.
 </p>
 
 # References
