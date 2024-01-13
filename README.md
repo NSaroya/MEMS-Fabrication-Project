@@ -125,8 +125,9 @@ The finished devices will be characterized and tested using scanning electron mi
 
 # Results
 
-![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/a94b06ac-3943-43a3-9589-fcf0c41006dc)
-![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/13347726-fe1a-4b8d-8946-bdf943bb291f)
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/eefaedd5-f72a-4dd9-996c-24eabc17a9d3)
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/da2de471-1b38-4b93-9ee5-7c4aa0012671)
+
 
 
 
