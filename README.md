@@ -82,3 +82,44 @@ For etching, a dry etching technique called Vapor Phase HF etching is quite popu
   <strong>Figure 5:</strong> SEM image of a deep silicon etch using the Bosch process.
 </p>
 
+## Process flow overview
+The fabrication of devices at the micrometre-scale (or smaller) is made possible by utilizing planar integrated circuit fabrication technology. A two dimensional image is transferred from a mask to the surface of a wafer using lithography and etching. An overview of the process flow for this project is given here:
+
+### Step 1 — Wafer preparation
+The SOI wafer is cleaned using piranha solution before processing to remove any foreign materials that might be on the surface.
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/b07e5c9f-feac-4d7b-a98d-3703521726c7)
+
+### Step 2 — Lithography: Apply resist
+A layer of UV-sensitive material called photoresist is spin-coated onto the surface of the wafer.
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/ab222ef2-4ac8-4efa-a3f4-4740289d527c)
+
+### Step 3 — Lithography: Align and expose
+A patterned mask (metal pattern on glass) is brought into contact with the photoresist. The photoresist is exposed to UV light, through the mask. Areas covered by metal on the mask are protected, while uncovered areas are exposed to the UV light. The UV light exposure changes the chemical composition of the photoresist in the exposed areas.
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/e7552573-d581-48c5-acdf-a0978a4f95a7)
+
+### Step 4 — Lithography: Develop
+The wafer is then placed in a developer solution that removes the resist in the regions where it has been exposed to the UV light.
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/ece29eb3-7ab9-43f8-b8ce-3f6746427508)
+
+### Step 5 — Etching
+The photoresist acts as a protective layer and the uncovered Si device layer is etched away using the ICPRIE until the underlying SiO2
+layer is reached. In this manner, you can selectively etch away areas of the silicon to form MEMS devices.
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/34070a9d-4e69-4f3a-a562-bf8042f5fae2)
+
+### Step 6 — Resist removal
+The remaining photoresist is removed using an oxygen plasma etch, leaving only the SOI with a patterned Si device layer.
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/b962024b-6018-49ed-b2a1-bf75c3952cca)
+
+### Step 7 — SiO2 etch and drying
+The sacrificial SiO2 BOX layer is removed, or “sacrificed”, by VHF etching in order to release the MEMS so that the devices can actuate. The remaining SiO2 anchors the stationary sections of the individual MEMS device.
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/739a3143-f763-4e49-ad1e-d1e45f297370)
+
+The finished devices will be characterized and tested using scanning electron microscopy and device probing.
+
