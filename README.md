@@ -131,11 +131,19 @@ The finished devices will be characterized and tested using scanning electron mi
 
 </div>
 
+<p align="center">
+  <strong>Figure 6:</strong> Small comb drives.
+</p>
+
 <div align="center">
 
   ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/da06d218-8b37-480e-8e4c-4520d736476d)
 
 </div>
+
+<p align="center">
+  <strong>Figure 7:</strong> Large comb drives.
+</p>
 
 <div align="center">
   
@@ -143,11 +151,19 @@ The finished devices will be characterized and tested using scanning electron mi
 
 </div>
 
+<p align="center">
+  <strong>Figure 8:</strong> A tri-padded Archimedean spiral spring MEMS with 6 comb drives (12/12 teeth per comb drive) designed by Mark Salomons.
+</p>
+
 <div align="center">
   
   ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/5ceb8e05-cce9-4979-a7ff-1f46d8438554)
 
 </div>
+
+<p align="center">
+  <strong>Figure 10:</strong> Smooth movers cell.
+</p>
 
 <div align="center">
   
@@ -155,11 +171,19 @@ The finished devices will be characterized and tested using scanning electron mi
 
 </div>
 
+<p align="center">
+  <strong>Figure 11:</strong> Extended-needle gauges with small drives. The larger square/rectangular pads in the middle are the anchors: one for the hinge of the needle; the other for the scale next to the moving needle.
+</p>
+
 <div align="center">
   
   ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/614df113-da06-4a52-a786-337fc78501da)
 
 </div>
+
+<p align="center">
+  <strong>Figure 12:</strong> Resistance gauges: A comb drive attached to a resistance gauge, and a close-up of the gauge itself.
+</p>
 
 <div align="center">
   
@@ -167,11 +191,19 @@ The finished devices will be characterized and tested using scanning electron mi
 
 </div>
 
+<p align="center">
+  <strong>Figure 13:</strong> SEM image of tri-padded Archimedean spiral spring MEMS.
+</p>
+
 <div align="center">
   
   ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/6b867281-0a4b-4da0-a323-759c22b8d73d)
 
 </div>
+
+<p align="center">
+  <strong>Figure 14:</strong> Magnified SEM image of tri-padded Archimedean spiral spring MEMS.
+</p>
 
 <div align="center">
   
@@ -179,11 +211,19 @@ The finished devices will be characterized and tested using scanning electron mi
 
 </div>
 
+<p align="center">
+  <strong>Figure 15:</strong> SEM Microscopy Image of Deep etch.
+</p>
+
 <div align="center">
   
   ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/aa3fa68e-170b-4fca-98e6-25d15d946ed3)
 
 </div>
+
+<p align="center">
+  <strong>Figure 16:</strong> Magnified image of SEM Microscopy Image of Deep etch.
+</p>
 
 <div align="center">
   
@@ -191,7 +231,13 @@ The finished devices will be characterized and tested using scanning electron mi
 
 </div>
 
+<p align="center">
+  <strong>Figure 17:</strong> SEM Microscopy Image of Sidewall structure.
+</p>
+
 # SOI MEMS project mask map
+
+The mask used in this project was redesigned in the summer of 2016 by the course instructors using L-Edit v10.01 software and fabricated using the Heidelberg DWL-200 Laser Pattern Generator in the nanoFAB.
 
 <div align="center">
   
@@ -199,7 +245,9 @@ The finished devices will be characterized and tested using scanning electron mi
 
 </div>
 
-
+<p align="center">
+  <strong>Figure 18:</strong> Layout of the MEMS die.
+</p>
 
 # References
 
