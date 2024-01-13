@@ -123,3 +123,25 @@ The sacrificial SiO2 BOX layer is removed, or “sacrificed”, by VHF etching i
 
 The finished devices will be characterized and tested using scanning electron microscopy and device probing.
 
+# Results
+
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/a94b06ac-3943-43a3-9589-fcf0c41006dc)
+![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/13347726-fe1a-4b8d-8946-bdf943bb291f)
+
+
+
+# References
+
+[1] J. C. Sit, "ECE 457 lab manual — 2020–2021," Edmonton, 2023.
+
+[2] Stephen A. Campbell, The Science and Engineering of Microelectronic Fabrication, Oxford University Press (2001).
+
+[3] W. Wai-Chi, A.A. Azid, B.Y. Majlis, “Formulation of stiffness constant and effective mass for a folded beam”, Archive of Mechanics 62(5) (2010).
+
+[4] William Chi-Keung Tang, “Electrostatic Comb Drive for Resonant Sensor and Actuator Applications”, Ph.D. Dissertation, University of California, Nov 21 1990.
+
+[5] Mohamed Gad-el-Hak, The MEMS Handbook, CRC Press LLC ( 2002).
+
+[6] Massood Tabib-Azar, Microactuators, Kluwer Academic Publishers (1998).
+
+[7] Hector J. De Los Santos, Introduction to Microelectromechanical Microwave Systems, Artech House (1999).
