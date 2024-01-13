@@ -1,3 +1,5 @@
+The project was undertaken as a component of ECE 457, focusing on Microfabrication and Devices, within the nanoFAB - Fabrication and Characterization Facility - located in Edmonton.
+
 # Objective
 The project aimed to fabricate and test a variety of *micro-electro-mechanical systems* (MEMS) using standard fabrication and characterization techniques. These include simple spring and beam structures, small drives, extended-needle gauges, large drives, resistance gauges, inch-worm gears, smooth movers and many more. The main fabrication techniques used in this lab are photolithography, anisotropic etch of Si using the Bosch process in the RIE system and etching of the SOI layer by VHF etching. 
 
