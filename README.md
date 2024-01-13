@@ -125,9 +125,79 @@ The finished devices will be characterized and tested using scanning electron mi
 
 # Results
 
-![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/eefaedd5-f72a-4dd9-996c-24eabc17a9d3)
-![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/da2de471-1b38-4b93-9ee5-7c4aa0012671)
+<div align="center">
 
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/28f0217e-a1eb-4eac-a698-c98edc8afceb)
+
+</div>
+
+<div align="center">
+
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/da06d218-8b37-480e-8e4c-4520d736476d)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/7e8bfcc0-4f95-4a23-b984-c1eb6f887839)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/5ceb8e05-cce9-4979-a7ff-1f46d8438554)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/d75dc5fb-e84d-4939-ac3d-b8fddcd1a63d)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/614df113-da06-4a52-a786-337fc78501da)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/73fda806-3ac7-4c5c-ac2d-7fd6e0dd3704)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/6b867281-0a4b-4da0-a323-759c22b8d73d)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/9baa48fa-4c8d-43b8-a044-2298987f8e09)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/aa3fa68e-170b-4fca-98e6-25d15d946ed3)
+
+</div>
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/67d60086-82d8-4c33-8314-7edea15388e3)
+
+</div>
+
+# SOI MEMS project mask map
+
+<div align="center">
+  
+  ![image](https://github.com/NSaroya/MEMS-Fabrication-Project/assets/156468713/a29c3482-f56a-492f-9fc0-055f44f95972)
+
+</div>
 
 
 
